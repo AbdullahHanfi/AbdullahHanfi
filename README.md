@@ -49,9 +49,6 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** specializing in 
 - Developed comprehensive unit tests for business logic validation
 - Created responsive UI for optimal cross-device experience
 
-### 🌐 **Portfolio Website**
-Showcasing my projects and technical journey - [View Portfolio](your-portfolio-link)
-
 ---
 
 ## 🎓 Background
