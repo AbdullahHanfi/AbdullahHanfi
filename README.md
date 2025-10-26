@@ -1,6 +1,6 @@
 # Hi there, I'm Abdalluh Hanafi! 👋
 
-## 🚀 Full Stack .NET Developer | ECPC Finalist | Problem Solver
+## 🚀 Software Engineer | ECPC Finalist | Problem Solver
 
 Welcome to my GitHub! I'm a **Software Engineer** specializing in **Full-Stack development** with hands-on experience in end-to-end design and architecture of web applications. ECPC finalist with a proven ability to solve complex problems, demonstrated by a **970x improvement in query performance**.
 
@@ -20,7 +20,6 @@ Welcome to my GitHub! I'm a **Software Engineer** specializing in **Full-Stack d
 
 ### Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -33,14 +32,19 @@ Welcome to my GitHub! I'm a **Software Engineer** specializing in **Full-Stack d
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Testing
 ![NUnit](https://img.shields.io/badge/NUnit-22B14C?style=for-the-badge&logo=.net&logoColor=white)
 ![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### Mobile 
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
 
